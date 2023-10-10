@@ -1,5 +1,5 @@
 #Livro de receitas
 
-ola ! bem vindo ao meu livro de receitas 
+Ola! bem vindo ao meu livro de receitas com minhas comidas prediletas.
 
-. strogonoff de frango
+1 - Cuscuz Branco.
